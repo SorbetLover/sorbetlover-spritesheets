@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="wrench.png">
+<SubTexture name="wrench idle0000" x="2235" y="1057" width="443" height="1056" frameX="-580" frameY="-234" frameWidth="1600" frameHeight="1300" />
+<SubTexture name="wrench idle0001" x="3484" y="972" width="545" height="937" frameX="-529" frameY="-353" frameWidth="1600" frameHeight="1300" />
+<SubTexture name="wrench idle0002" x="3484" y="972" width="545" height="937" frameX="-529" frameY="-353" frameWidth="1600" frameHeight="1300" />
+<SubTexture name="wrench idle0003" x="3484" y="972" width="545" height="937" frameX="-529" frameY="-353" frameWidth="1600" frameHeight="1300" />
+<SubTexture name="wrench idle0004" x="2456" y="2210" width="531" height="973" frameX="-536" frameY="-317" frameWidth="1600" frameHeight="1300" />
+<SubTexture name="wrench idle0005" x="2456" y="2210" width="531" height="973" frameX="-536" frameY="-317" frameWidth="1600" frameHeight="1300" />
+<SubTexture name="wrench idle0006" x="2923" y="1032" width="507" height="1007" frameX="-548" frameY="-283" frameWidth="1600" frameHeight="1300" />
+<SubTexture name="wrench idle0007" x="2923" y="1032" width="507" height="1007" frameX="-548" frameY="-283" frameWidth="1600" frameHeight="1300" />
+<SubTexture name="wrench idle0008" x="1601" y="1142" width="467" height="1041" frameX="-568" frameY="-249" frameWidth="1600" frameHeight="1300" />
+<SubTexture name="wrench idle0009" x="1601" y="1142" width="467" height="1041" frameX="-568" frameY="-249" frameWidth="1600" frameHeight="1300" />
+<SubTexture name="wrench idle0010" x="2235" y="1057" width="443" height="1056" frameX="-580" frameY="-234" frameWidth="1600" frameHeight="1300" />
+<SubTexture name="wrench idle0011" x="2235" y="1057" width="443" height="1056" frameX="-580" frameY="-234" frameWidth="1600" frameHeight="1300" />
+<SubTexture name="wrench idle0012" x="2235" y="1057" width="443" height="1056" frameX="-580" frameY="-234" frameWidth="1600" frameHeight="1300" />
+<SubTexture name="wrench idle0013" x="2235" y="1057" width="443" height="1056" frameX="-580" frameY="-234" frameWidth="1600" frameHeight="1300" />
+<SubTexture name="wrench idle0014" x="2235" y="1057" width="443" height="1056" frameX="-580" frameY="-234" frameWidth="1600" frameHeight="1300" />
+<SubTexture name="wrench idle0015" x="2235" y="1057" width="443" height="1056" frameX="-580" frameY="-234" frameWidth="1600" frameHeight="1300" />
+<SubTexture name="wrench down0000" x="3484" y="1909" width="763" height="925" frameX="-336" frameY="-365" frameWidth="1600" frameHeight="1300" />
+<SubTexture name="wrench down0001" x="2923" y="0" width="561" height="1032" frameX="-437" frameY="-258" frameWidth="1600" frameHeight="1300" />
+<SubTexture name="wrench down0002" x="0" y="1142" width="561" height="1068" frameX="-437" frameY="-221" frameWidth="1600" frameHeight="1300" />
+<SubTexture name="wrench left0000" x="1624" y="2210" width="832" height="1003" frameX="-57" frameY="-269" frameWidth="1600" frameHeight="1300" />
+<SubTexture name="wrench left0001" x="0" y="2210" width="749" height="1031" frameX="-136" frameY="-240" frameWidth="1600" frameHeight="1300" />
+<SubTexture name="wrench left0002" x="2235" y="0" width="688" height="1057" frameX="-251" frameY="-220" frameWidth="1600" frameHeight="1300" />
+<SubTexture name="wrench right0000" x="561" y="1142" width="1040" height="1060" frameX="-514" frameY="-227" frameWidth="1600" frameHeight="1300" />
+<SubTexture name="wrench right0001" x="733" y="0" width="886" height="1114" frameX="-517" frameY="-182" frameWidth="1600" frameHeight="1300" />
+<SubTexture name="wrench right0002" x="0" y="0" width="733" height="1142" frameX="-541" frameY="-149" frameWidth="1600" frameHeight="1300" />
+<SubTexture name="wrench up0000" x="1619" y="0" width="616" height="1098" frameX="-468" frameY="-195" frameWidth="1600" frameHeight="1300" />
+<SubTexture name="wrench up0001" x="749" y="2210" width="875" height="1020" frameX="-338" frameY="-273" frameWidth="1600" frameHeight="1300" />
+<SubTexture name="wrench up0002" x="3484" y="0" width="875" height="972" frameX="-338" frameY="-321" frameWidth="1600" frameHeight="1300" />
+</TextureAtlas>
